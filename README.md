@@ -1,6 +1,3 @@
-# guiz
-Welcome to Quizzy Whizzy, your cheerful coding companion that makes learning fun! 🌟
-This is a simple, interactive quiz app built with Python, designed to test your brainpower with a smile. 😊 Whether you’re brushing up on facts or just love answering fun questions, this app is perfect for a quick mental workout
 # quiz_app.py
 
 questions = [
@@ -20,8 +17,8 @@ questions = [
         "answer": "C"
     },
     {
-        "question": "Jannat ky patty ?",
-        "options": ["A. ", "B. Charles Dickens", "C. William Shakespeare", "D. Jane Austen"],
+        "question": "Jannat ky patty is wrutten by ?",
+        "options": ["A.Umerah Ahmed ", "B. Charles Dickens", "C. Nemrah Ahmed", "D. Jane Austen"],
         "answer": "C"
     }
 ]
